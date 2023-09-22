@@ -4,8 +4,8 @@
 ## Files
 Original Dataset (job_skills.csv) : https://www.kaggle.com/datasets/niyamatalmass/google-job-skills  
 Preprocessed Dataset (preprocessed_dataset/job_skills_processed_data.csv)  
-Training Split (preprocessed_dataset/train.csv)  
-Testing Split (preprocessed_dataset/test.csv)  
+Training Split (preprocessed_dataset/split/train.csv)  
+Testing Split (preprocessed_dataset/split/test.csv)  
 
 ## Data Statistics
 The statistics of preprocessed dataset are as follows.
