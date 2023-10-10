@@ -31,7 +31,13 @@ Avg. No of Expertise per Document	| 2.53 | 2.55 | 2.40
 
 AMD EPYC CPU (48 cores)  
 Nvidia A100 80GB GPU  
-1TB RAM  
+1TB RAM 
+
+### Libraries Used
+TF-IDF : Scikit-Learn  
+PatternRank: KeyBERT & KeyphraseTfidfVectorizer  
+BART: transformers (by HuggingFace)  
+Sentence Embeddings: FastText (Average of Individual Word Embeddings)  
 
 ### Hyperparameters for training bart-large
 Hyperparameter | Value
